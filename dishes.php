@@ -285,7 +285,7 @@ $item_total += ($item["price"]*$item["quantity"]);
                                     Phagwara, Punjab (India) - 144411</p>
                                     <h5>Phone: 9555635456</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
-                                    <h5>Addition informations</h5>
+                                    <h5>Additional Information</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
                                 </div>
                             </div>
